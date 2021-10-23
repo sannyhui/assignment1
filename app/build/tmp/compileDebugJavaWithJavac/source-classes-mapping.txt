@@ -1,0 +1,2 @@
+mad/s10361649/minicardgame/BuildConfig.java
+ mad.s10361649.minicardgame.BuildConfig
